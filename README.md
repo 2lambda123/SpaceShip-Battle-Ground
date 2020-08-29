@@ -2,7 +2,7 @@
     SpaceShip Battle Ground
 </h1>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/22770735/91629388-65ecf780-e9e6-11ea-815e-6639682e7345.png">
+    <img src="https://user-images.githubusercontent.com/22770735/91629693-cc731500-e9e8-11ea-8022-db05ce6a6004.gif">
 </p>
 
 
